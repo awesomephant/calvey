@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    font-size: 1.15rem;
+}
+
+.site-nav {
+    padding: 5%;
+    display: flex;
+    font-size: $ms-2;
+    justify-content: center;
+    a {
+        text-decoration: none;
+        padding: .5em;
+    }
+    .active {
+        text-decoration: underline;
+    }
+}

@@ -1,0 +1,14 @@
+.archive-wrapper {
+  padding: 5%;
+
+}
+.archive {
+  font-size: $ms-1;
+  td {
+    padding: .1rem;
+    padding-right: 1em;
+  }
+  thead td{
+    padding-bottom: 1em;
+  }
+}

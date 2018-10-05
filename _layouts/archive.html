@@ -1,0 +1,29 @@
+---
+layout: base
+---
+<nav class="site-nav">
+    <a href="/">Feed</a>
+    <a class='active' href="/archive/">Archive</a>
+</nav>
+
+<div class="archive-wrapper">
+
+<table class="archive">
+<thead>
+  <td>Title</td>
+  <td>Year</td>
+  <td>Tags</td>
+  <td>Medium</td>
+</thead>
+{% for item in (1..15) %}
+  <tr>
+    <td>This is a smart title</td>
+    <td>2018</td>
+    <td>Space, Light</td>
+    <td>Photography</td>
+  </tr>
+{% endfor %}
+</tabel>
+
+
+</div>
