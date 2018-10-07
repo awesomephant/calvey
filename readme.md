@@ -7,7 +7,7 @@
     2.  Download a working copy of this repository using ```git clone https://github.com/awesomephant/calvey.git```
     3. ```cd calvey```
     4. ```jekyll serve``` to launch a local development server. If you're getting error messages, try ```bundle exec jekyll serve``` instead.
-    5. Open your web browser and type ```http://localhost:4000/calvey``` into the address bar. If the site loads, you're ready to start making changes.
+    5. Open your web browser and type ```http://localhost:4000/calvey/``` into the address bar. If the site loads, you're ready to start making changes.
 4. // TODO: How to add content etc. 
 
 ## Further Reading
